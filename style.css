@@ -1,0 +1,29 @@
+* {
+    font-family: "Courgette", cursive;
+    text-align: center;
+}
+
+div.container {
+    text-align: center;
+}
+
+h1.second {
+    margin: 0px;
+    padding: 0px;
+    border: 0;
+}
+
+ol.list {
+    display: inline-block;
+    text-align: center;
+    margin-top: 0%;
+    padding: 0%;
+}
+
+button {
+    border: 0.5% solid powderblue;
+    background-color: #3385ff;
+    font-size: 16px;
+    border-radius: 15px;
+    text-decoration: none;
+}
