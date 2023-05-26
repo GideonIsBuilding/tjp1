@@ -5,6 +5,7 @@
 
 div.container {
     text-align: center;
+    
 }
 
 h1.second {
@@ -16,14 +17,16 @@ h1.second {
 ol.list {
     display: inline-block;
     text-align: center;
-    margin-top: 0%;
-    padding: 0%;
+    margin-top: auto;
+    padding: auto;
 }
 
 button {
-    border: 0.5% solid powderblue;
     background-color: #3385ff;
+    color: white;
     font-size: 16px;
     border-radius: 15px;
     text-decoration: none;
+    cursor: pointer;
+    padding: .5% 2%;
 }
